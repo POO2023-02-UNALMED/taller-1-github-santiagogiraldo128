@@ -1,0 +1,1 @@
+Se pudo hacer el commit porque dentro de la carpeta creamos un archivo, git interpreta que hay un cambio
