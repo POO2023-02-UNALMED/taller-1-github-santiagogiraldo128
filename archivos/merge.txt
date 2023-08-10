@@ -1,3 +1,6 @@
+
 Santiago Giraldo Garcia
 20 años
 mi objetivo es aprender el paradigma de la programacion poo y el uso de java.
+Se pudo hacer el commit porque dentro de la carpeta creamos un archivo, git interpreta que hay un cambio
+
